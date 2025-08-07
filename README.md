@@ -1,2 +1,2 @@
-# CRM---Institute-Management-System
-Institute Management System for Apex Institute
+# POS
+Position Of Sales
